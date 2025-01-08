@@ -7,9 +7,13 @@ The app supports adding, updating, and deleting tasks, with all data stored loca
 
 Add Tasks: Users can add tasks to their task list.
 Local Storage: Tasks are stored in the browser's local storage for persistence.
+
 Change Task Status: Mark tasks as complete or incomplete with a single click.
+
 Delete Individual Tasks: Remove specific tasks from the list.
+
 Clear All Tasks: Remove all tasks at once (button is displayed only if there is at least one task).
+
 Dynamic Buttons: Each task has a "Complete" and "Delete" button for easy management.
 
 🔧 How It Works
