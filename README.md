@@ -6,6 +6,7 @@ The app supports adding, updating, and deleting tasks, with all data stored loca
 ✨ Features
 
 Add Tasks: Users can add tasks to their task list.
+
 Local Storage: Tasks are stored in the browser's local storage for persistence.
 
 Change Task Status: Mark tasks as complete or incomplete with a single click.
@@ -36,9 +37,12 @@ The button is hidden if there are no tasks in the list.
 🛠️ Technologies Used
 
 ReactJS: For building the user interface.
+
 Local Storage: To store tasks persistently in the browser.
+
 CSS: For styling the application.
 
 🚀 How to Run the Project
+
 Clone the repository:
 git clone https://github.com/your-username/taskbuddy-app.git
